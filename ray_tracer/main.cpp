@@ -1,5 +1,8 @@
 //  main.cpp
 
+// @author Bilal Ahmad
+// @date Spring, 2015
+
 #include <iostream>
 #include <vector>
 #include <map>
